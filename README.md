@@ -11,9 +11,9 @@ Projeto de site <a href="https://projetoagenciaweb.netlify.app/">Agência Web</a
 <a href="https://projetoagenciaweb.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![alt text](preview.jpg)
+![preview](https://github.com/daniel-portela/Agencia-web/assets/110783805/dd48cd07-7573-4fed-8bb0-832308b29d7d)
 
-![alt text](preview-responsive.jpg)
+![preview-responsive](https://github.com/daniel-portela/Agencia-web/assets/110783805/7492c68c-4bd0-4076-be20-4681d7948f29)
 
 Tecnologias utilizadas
 
